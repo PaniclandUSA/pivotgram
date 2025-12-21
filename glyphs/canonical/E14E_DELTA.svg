@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <path d="M32 12 L52 48 L12 48 Z" fill="none" stroke="black" stroke-width="6" />
+  <path d="M32 24 L32 36" stroke="black" stroke-width="4" />
+  <polygon points="28,36 32,42 36,36" fill="black" />
+</svg>
