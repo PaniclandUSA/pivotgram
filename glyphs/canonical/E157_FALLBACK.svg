@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 24 L40 24" stroke="black" stroke-width="5" />
+  <line x1="40" y1="24" x2="40" y2="40" stroke="black" stroke-width="5" stroke-dasharray="4 4" />
+  <path d="M40 40 L52 40" stroke="black" stroke-width="5" />
+  <polygon points="48,36 54,40 48,44" fill="black" />
+  <line x1="36" y1="20" x2="36" y2="28" stroke="black" stroke-width="4" />
+</svg>
