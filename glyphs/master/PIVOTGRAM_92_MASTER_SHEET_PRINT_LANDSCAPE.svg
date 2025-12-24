@@ -1,0 +1,2703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11in" height="8.5in"
+     viewBox="0 0 3300 2550"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <title>PIVOTGRAM-92 — Master Sheet (Print Landscape)</title>
+
+  <rect width="3300" height="2550" fill="#ffffff"/>
+
+  <text x="1650" y="90"
+        font-family="Arial, sans-serif"
+        font-size="64"
+        font-weight="bold"
+        text-anchor="middle">
+    PIVOTGRAM-92 — Canonical Master Sheet
+  </text>
+
+  <text x="1650" y="130"
+        font-family="Arial, sans-serif"
+        font-size="30"
+        text-anchor="middle"
+        fill="#444">
+    Audit-Safe · Non-Invertible · Compiler-Stable · Print Layout (11×8.5)
+  </text>
+
+  <g id="cell_E100">
+    <rect x="140" y="170"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="158" y="212"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E100
+    </text>
+
+    <!-- Glyph -->
+    <image x="231" y="196"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E100_INSTANT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="291" y="374"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      INSTANT
+    </text>
+  </g>
+
+  <g id="cell_E101">
+    <rect x="442" y="170"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="460" y="212"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E101
+    </text>
+
+    <!-- Glyph -->
+    <image x="533" y="196"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E101_DURATION.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="593" y="374"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      DURATION
+    </text>
+  </g>
+
+  <g id="cell_E102">
+    <rect x="744" y="170"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="762" y="212"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E102
+    </text>
+
+    <!-- Glyph -->
+    <image x="835" y="196"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E102_EPOCH.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="895" y="374"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      EPOCH
+    </text>
+  </g>
+
+  <g id="cell_E103">
+    <rect x="1046" y="170"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1064" y="212"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E103
+    </text>
+
+    <!-- Glyph -->
+    <image x="1137" y="196"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E103_SEQUENCE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1197" y="374"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      SEQUENCE
+    </text>
+  </g>
+
+  <g id="cell_E104">
+    <rect x="1348" y="170"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1366" y="212"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E104
+    </text>
+
+    <!-- Glyph -->
+    <image x="1439" y="196"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E104_SIMULTANEOUS.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1499" y="374"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      SIMULTANEOUS
+    </text>
+  </g>
+
+  <g id="cell_E105">
+    <rect x="1650" y="170"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1668" y="212"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E105
+    </text>
+
+    <!-- Glyph -->
+    <image x="1741" y="196"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E105_BEFORE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1801" y="374"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      BEFORE
+    </text>
+  </g>
+
+  <g id="cell_E106">
+    <rect x="1952" y="170"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1970" y="212"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E106
+    </text>
+
+    <!-- Glyph -->
+    <image x="2043" y="196"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E106_AFTER.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2103" y="374"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      AFTER
+    </text>
+  </g>
+
+  <g id="cell_E107">
+    <rect x="2254" y="170"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2272" y="212"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E107
+    </text>
+
+    <!-- Glyph -->
+    <image x="2345" y="196"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E107_DURING.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2405" y="374"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      DURING
+    </text>
+  </g>
+
+  <g id="cell_E108">
+    <rect x="2556" y="170"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2574" y="212"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E108
+    </text>
+
+    <!-- Glyph -->
+    <image x="2647" y="196"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E108_SINCE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2707" y="374"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      SINCE
+    </text>
+  </g>
+
+  <g id="cell_E109">
+    <rect x="2858" y="170"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2876" y="212"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E109
+    </text>
+
+    <!-- Glyph -->
+    <image x="2949" y="196"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E109_UNTIL.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="3009" y="374"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      UNTIL
+    </text>
+  </g>
+
+  <g id="cell_E10A">
+    <rect x="140" y="396"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="158" y="438"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E10A
+    </text>
+
+    <!-- Glyph -->
+    <image x="231" y="422"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E10A_PAST_POSITION.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="291" y="600"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      PAST POSITION
+    </text>
+  </g>
+
+  <g id="cell_E10B">
+    <rect x="442" y="396"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="460" y="438"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E10B
+    </text>
+
+    <!-- Glyph -->
+    <image x="533" y="422"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E10B_FUTURE_POSITION.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="593" y="600"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      FUTURE POSITION
+    </text>
+  </g>
+
+  <g id="cell_E10C">
+    <rect x="744" y="396"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="762" y="438"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E10C
+    </text>
+
+    <!-- Glyph -->
+    <image x="835" y="422"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E10C_INTENT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="895" y="600"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      INTENT
+    </text>
+  </g>
+
+  <g id="cell_E10D">
+    <rect x="1046" y="396"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1064" y="438"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E10D
+    </text>
+
+    <!-- Glyph -->
+    <image x="1137" y="422"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E10D_ARTIFACT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1197" y="600"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      ARTIFACT
+    </text>
+  </g>
+
+  <g id="cell_E10E">
+    <rect x="1348" y="396"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1366" y="438"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E10E
+    </text>
+
+    <!-- Glyph -->
+    <image x="1439" y="422"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E10E_ENCODE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1499" y="600"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      ENCODE
+    </text>
+  </g>
+
+  <g id="cell_E10F">
+    <rect x="1650" y="396"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1668" y="438"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E10F
+    </text>
+
+    <!-- Glyph -->
+    <image x="1741" y="422"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E10F_AGENCY.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1801" y="600"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      AGENCY
+    </text>
+  </g>
+
+  <g id="cell_E110">
+    <rect x="1952" y="396"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1970" y="438"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E110
+    </text>
+
+    <!-- Glyph -->
+    <image x="2043" y="422"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E110_BELIEF.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2103" y="600"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      BELIEF
+    </text>
+  </g>
+
+  <g id="cell_E111">
+    <rect x="2254" y="396"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2272" y="438"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E111
+    </text>
+
+    <!-- Glyph -->
+    <image x="2345" y="422"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E111_EXPRESSION.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2405" y="600"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      EXPRESSION
+    </text>
+  </g>
+
+  <g id="cell_E112">
+    <rect x="2556" y="396"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2574" y="438"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E112
+    </text>
+
+    <!-- Glyph -->
+    <image x="2647" y="422"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E112_OBSERVE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2707" y="600"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      OBSERVE
+    </text>
+  </g>
+
+  <g id="cell_E113">
+    <rect x="2858" y="396"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2876" y="438"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E113
+    </text>
+
+    <!-- Glyph -->
+    <image x="2949" y="422"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E113_MANIFEST.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="3009" y="600"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      MANIFEST
+    </text>
+  </g>
+
+  <g id="cell_E114">
+    <rect x="140" y="622"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="158" y="664"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E114
+    </text>
+
+    <!-- Glyph -->
+    <image x="231" y="648"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E114_PRIVATE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="291" y="826"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      PRIVATE
+    </text>
+  </g>
+
+  <g id="cell_E115">
+    <rect x="442" y="622"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="460" y="664"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E115
+    </text>
+
+    <!-- Glyph -->
+    <image x="533" y="648"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E115_PUBLIC.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="593" y="826"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      PUBLIC
+    </text>
+  </g>
+
+  <g id="cell_E116">
+    <rect x="744" y="622"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="762" y="664"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E116
+    </text>
+
+    <!-- Glyph -->
+    <image x="835" y="648"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E116_SUBJECTIVE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="895" y="826"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      SUBJECTIVE
+    </text>
+  </g>
+
+  <g id="cell_E117">
+    <rect x="1046" y="622"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1064" y="664"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E117
+    </text>
+
+    <!-- Glyph -->
+    <image x="1137" y="648"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E117_OBJECTIVE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1197" y="826"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      OBJECTIVE
+    </text>
+  </g>
+
+  <g id="cell_E118">
+    <rect x="1348" y="622"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1366" y="664"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E118
+    </text>
+
+    <!-- Glyph -->
+    <image x="1439" y="648"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E118_ATOMIC.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1499" y="826"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      ATOMIC
+    </text>
+  </g>
+
+  <g id="cell_E119">
+    <rect x="1650" y="622"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1668" y="664"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E119
+    </text>
+
+    <!-- Glyph -->
+    <image x="1741" y="648"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E119_PHRASE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1801" y="826"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      PHRASE
+    </text>
+  </g>
+
+  <g id="cell_E11A">
+    <rect x="1952" y="622"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1970" y="664"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E11A
+    </text>
+
+    <!-- Glyph -->
+    <image x="2043" y="648"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E11A_SENTENCE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2103" y="826"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      SENTENCE
+    </text>
+  </g>
+
+  <g id="cell_E11B">
+    <rect x="2254" y="622"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2272" y="664"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E11B
+    </text>
+
+    <!-- Glyph -->
+    <image x="2345" y="648"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E11B_PARAGRAPH.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2405" y="826"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      PARAGRAPH
+    </text>
+  </g>
+
+  <g id="cell_E11C">
+    <rect x="2556" y="622"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2574" y="664"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E11C
+    </text>
+
+    <!-- Glyph -->
+    <image x="2647" y="648"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E11C_DOCUMENT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2707" y="826"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      DOCUMENT
+    </text>
+  </g>
+
+  <g id="cell_E11D">
+    <rect x="2858" y="622"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2876" y="664"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E11D
+    </text>
+
+    <!-- Glyph -->
+    <image x="2949" y="648"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E11D_CORPUS.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="3009" y="826"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      CORPUS
+    </text>
+  </g>
+
+  <g id="cell_E11E">
+    <rect x="140" y="848"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="158" y="890"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E11E
+    </text>
+
+    <!-- Glyph -->
+    <image x="231" y="874"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E11E_NARROW.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="291" y="1052"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      NARROW
+    </text>
+  </g>
+
+  <g id="cell_E11F">
+    <rect x="442" y="848"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="460" y="890"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E11F
+    </text>
+
+    <!-- Glyph -->
+    <image x="533" y="874"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E11F_EXPAND.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="593" y="1052"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      EXPAND
+    </text>
+  </g>
+
+  <g id="cell_E120">
+    <rect x="744" y="848"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="762" y="890"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E120
+    </text>
+
+    <!-- Glyph -->
+    <image x="835" y="874"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E120_LOCAL.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="895" y="1052"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      LOCAL
+    </text>
+  </g>
+
+  <g id="cell_E121">
+    <rect x="1046" y="848"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1064" y="890"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E121
+    </text>
+
+    <!-- Glyph -->
+    <image x="1137" y="874"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E121_GLOBAL.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1197" y="1052"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      GLOBAL
+    </text>
+  </g>
+
+  <g id="cell_E122">
+    <rect x="1348" y="848"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1366" y="890"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E122
+    </text>
+
+    <!-- Glyph -->
+    <image x="1439" y="874"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E122_SPECIFIC.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1499" y="1052"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      SPECIFIC
+    </text>
+  </g>
+
+  <g id="cell_E123">
+    <rect x="1650" y="848"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1668" y="890"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E123
+    </text>
+
+    <!-- Glyph -->
+    <image x="1741" y="874"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E123_GENERAL.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1801" y="1052"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      GENERAL
+    </text>
+  </g>
+
+  <g id="cell_E124">
+    <rect x="1952" y="848"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1970" y="890"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E124
+    </text>
+
+    <!-- Glyph -->
+    <image x="2043" y="874"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E124_PRIVACY.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2103" y="1052"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      PRIVACY
+    </text>
+  </g>
+
+  <g id="cell_E125">
+    <rect x="2254" y="848"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2272" y="890"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E125
+    </text>
+
+    <!-- Glyph -->
+    <image x="2345" y="874"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E125_TRANSPARENCY.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2405" y="1052"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      TRANSPARENCY
+    </text>
+  </g>
+
+  <g id="cell_E126">
+    <rect x="2556" y="848"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2574" y="890"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E126
+    </text>
+
+    <!-- Glyph -->
+    <image x="2647" y="874"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E126_AUTONOMY.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2707" y="1052"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      AUTONOMY
+    </text>
+  </g>
+
+  <g id="cell_E127">
+    <rect x="2858" y="848"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2876" y="890"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E127
+    </text>
+
+    <!-- Glyph -->
+    <image x="2949" y="874"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E127_ACCOUNTABILITY.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="3009" y="1052"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      ACCOUNTABILITY
+    </text>
+  </g>
+
+  <g id="cell_E128">
+    <rect x="140" y="1074"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="158" y="1116"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E128
+    </text>
+
+    <!-- Glyph -->
+    <image x="231" y="1100"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E128_DIGNITY.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="291" y="1278"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      DIGNITY
+    </text>
+  </g>
+
+  <g id="cell_E129">
+    <rect x="442" y="1074"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="460" y="1116"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E129
+    </text>
+
+    <!-- Glyph -->
+    <image x="533" y="1100"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E129_AUDIT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="593" y="1278"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      AUDIT
+    </text>
+  </g>
+
+  <g id="cell_E12A">
+    <rect x="744" y="1074"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="762" y="1116"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E12A
+    </text>
+
+    <!-- Glyph -->
+    <image x="835" y="1100"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E12A_CONSENT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="895" y="1278"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      CONSENT
+    </text>
+  </g>
+
+  <g id="cell_E12B">
+    <rect x="1046" y="1074"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1064" y="1116"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E12B
+    </text>
+
+    <!-- Glyph -->
+    <image x="1137" y="1100"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E12B_DISCLOSURE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1197" y="1278"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      DISCLOSURE
+    </text>
+  </g>
+
+  <g id="cell_E12C">
+    <rect x="1348" y="1074"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1366" y="1116"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E12C
+    </text>
+
+    <!-- Glyph -->
+    <image x="1439" y="1100"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E12C_PROTECTION.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1499" y="1278"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      PROTECTION
+    </text>
+  </g>
+
+  <g id="cell_E12D">
+    <rect x="1650" y="1074"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1668" y="1116"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E12D
+    </text>
+
+    <!-- Glyph -->
+    <image x="1741" y="1100"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E12D_RESPONSIBILITY.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1801" y="1278"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      RESPONSIBILITY
+    </text>
+  </g>
+
+  <g id="cell_E12E">
+    <rect x="1952" y="1074"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1970" y="1116"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E12E
+    </text>
+
+    <!-- Glyph -->
+    <image x="2043" y="1100"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E12E_FREEDOM.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2103" y="1278"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      FREEDOM
+    </text>
+  </g>
+
+  <g id="cell_E12F">
+    <rect x="2254" y="1074"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2272" y="1116"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E12F
+    </text>
+
+    <!-- Glyph -->
+    <image x="2345" y="1100"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E12F_CONSTRAINT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2405" y="1278"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      CONSTRAINT
+    </text>
+  </g>
+
+  <g id="cell_E130">
+    <rect x="2556" y="1074"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2574" y="1116"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E130
+    </text>
+
+    <!-- Glyph -->
+    <image x="2647" y="1100"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E130_AND.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2707" y="1278"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      AND
+    </text>
+  </g>
+
+  <g id="cell_E131">
+    <rect x="2858" y="1074"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2876" y="1116"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E131
+    </text>
+
+    <!-- Glyph -->
+    <image x="2949" y="1100"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E131_OR.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="3009" y="1278"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      OR
+    </text>
+  </g>
+
+  <g id="cell_E132">
+    <rect x="140" y="1300"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="158" y="1342"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E132
+    </text>
+
+    <!-- Glyph -->
+    <image x="231" y="1326"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E132_NOT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="291" y="1504"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      NOT
+    </text>
+  </g>
+
+  <g id="cell_E133">
+    <rect x="442" y="1300"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="460" y="1342"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E133
+    </text>
+
+    <!-- Glyph -->
+    <image x="533" y="1326"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E133_IMPLIES.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="593" y="1504"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      IMPLIES
+    </text>
+  </g>
+
+  <g id="cell_E134">
+    <rect x="744" y="1300"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="762" y="1342"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E134
+    </text>
+
+    <!-- Glyph -->
+    <image x="835" y="1326"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E134_IFF.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="895" y="1504"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      IFF
+    </text>
+  </g>
+
+  <g id="cell_E135">
+    <rect x="1046" y="1300"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1064" y="1342"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E135
+    </text>
+
+    <!-- Glyph -->
+    <image x="1137" y="1326"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E135_XOR.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1197" y="1504"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      XOR
+    </text>
+  </g>
+
+  <g id="cell_E136">
+    <rect x="1348" y="1300"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1366" y="1342"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E136
+    </text>
+
+    <!-- Glyph -->
+    <image x="1439" y="1326"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E136_NAND.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1499" y="1504"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      NAND
+    </text>
+  </g>
+
+  <g id="cell_E137">
+    <rect x="1650" y="1300"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1668" y="1342"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E137
+    </text>
+
+    <!-- Glyph -->
+    <image x="1741" y="1326"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E137_NOR.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1801" y="1504"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      NOR
+    </text>
+  </g>
+
+  <g id="cell_E138">
+    <rect x="1952" y="1300"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1970" y="1342"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E138
+    </text>
+
+    <!-- Glyph -->
+    <image x="2043" y="1326"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E138_UNION.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2103" y="1504"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      UNION
+    </text>
+  </g>
+
+  <g id="cell_E139">
+    <rect x="2254" y="1300"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2272" y="1342"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E139
+    </text>
+
+    <!-- Glyph -->
+    <image x="2345" y="1326"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E139_INTERSECTION.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2405" y="1504"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      INTERSECTION
+    </text>
+  </g>
+
+  <g id="cell_E13A">
+    <rect x="2556" y="1300"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2574" y="1342"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E13A
+    </text>
+
+    <!-- Glyph -->
+    <image x="2647" y="1326"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E13A_DIFFERENCE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2707" y="1504"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      DIFFERENCE
+    </text>
+  </g>
+
+  <g id="cell_E13B">
+    <rect x="2858" y="1300"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2876" y="1342"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E13B
+    </text>
+
+    <!-- Glyph -->
+    <image x="2949" y="1326"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E13B_COMPLEMENT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="3009" y="1504"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      COMPLEMENT
+    </text>
+  </g>
+
+  <g id="cell_E13C">
+    <rect x="140" y="1526"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="158" y="1568"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E13C
+    </text>
+
+    <!-- Glyph -->
+    <image x="231" y="1552"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E13C_SUBSET.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="291" y="1730"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      SUBSET
+    </text>
+  </g>
+
+  <g id="cell_E13D">
+    <rect x="442" y="1526"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="460" y="1568"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E13D
+    </text>
+
+    <!-- Glyph -->
+    <image x="533" y="1552"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E13D_SUPERSET.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="593" y="1730"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      SUPERSET
+    </text>
+  </g>
+
+  <g id="cell_E13E">
+    <rect x="744" y="1526"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="762" y="1568"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E13E
+    </text>
+
+    <!-- Glyph -->
+    <image x="835" y="1552"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E13E_MEMBER.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="895" y="1730"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      MEMBER
+    </text>
+  </g>
+
+  <g id="cell_E13F">
+    <rect x="1046" y="1526"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1064" y="1568"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E13F
+    </text>
+
+    <!-- Glyph -->
+    <image x="1137" y="1552"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E13F_EMPTY.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1197" y="1730"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      EMPTY
+    </text>
+  </g>
+
+  <g id="cell_E140">
+    <rect x="1348" y="1526"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1366" y="1568"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E140
+    </text>
+
+    <!-- Glyph -->
+    <image x="1439" y="1552"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E140_PARAPHRASE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1499" y="1730"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      PARAPHRASE
+    </text>
+  </g>
+
+  <g id="cell_E141">
+    <rect x="1650" y="1526"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1668" y="1568"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E141
+    </text>
+
+    <!-- Glyph -->
+    <image x="1741" y="1552"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E141_TRANSLATE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1801" y="1730"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      TRANSLATE
+    </text>
+  </g>
+
+  <g id="cell_E142">
+    <rect x="1952" y="1526"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1970" y="1568"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E142
+    </text>
+
+    <!-- Glyph -->
+    <image x="2043" y="1552"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E142_SUMMARIZE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2103" y="1730"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      SUMMARIZE
+    </text>
+  </g>
+
+  <g id="cell_E143">
+    <rect x="2254" y="1526"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2272" y="1568"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E143
+    </text>
+
+    <!-- Glyph -->
+    <image x="2345" y="1552"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E143_ELABORATE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2405" y="1730"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      ELABORATE
+    </text>
+  </g>
+
+  <g id="cell_E144">
+    <rect x="2556" y="1526"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2574" y="1568"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E144
+    </text>
+
+    <!-- Glyph -->
+    <image x="2647" y="1552"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E144_ADAPT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2707" y="1730"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      ADAPT
+    </text>
+  </g>
+
+  <g id="cell_E145">
+    <rect x="2858" y="1526"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2876" y="1568"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E145
+    </text>
+
+    <!-- Glyph -->
+    <image x="2949" y="1552"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E145_SIMPLIFY.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="3009" y="1730"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      SIMPLIFY
+    </text>
+  </g>
+
+  <g id="cell_E146">
+    <rect x="140" y="1752"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="158" y="1794"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E146
+    </text>
+
+    <!-- Glyph -->
+    <image x="231" y="1778"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E146_FORMALIZE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="291" y="1956"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      FORMALIZE
+    </text>
+  </g>
+
+  <g id="cell_E147">
+    <rect x="442" y="1752"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="460" y="1794"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E147
+    </text>
+
+    <!-- Glyph -->
+    <image x="533" y="1778"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E147_VERIFY.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="593" y="1956"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      VERIFY
+    </text>
+  </g>
+
+  <g id="cell_E148">
+    <rect x="744" y="1752"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="762" y="1794"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E148
+    </text>
+
+    <!-- Glyph -->
+    <image x="835" y="1778"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E148_AUDIT_MARKER.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="895" y="1956"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      AUDIT MARKER
+    </text>
+  </g>
+
+  <g id="cell_E149">
+    <rect x="1046" y="1752"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1064" y="1794"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E149
+    </text>
+
+    <!-- Glyph -->
+    <image x="1137" y="1778"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E149_SIGN.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1197" y="1956"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      SIGN
+    </text>
+  </g>
+
+  <g id="cell_E14A">
+    <rect x="1348" y="1752"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1366" y="1794"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E14A
+    </text>
+
+    <!-- Glyph -->
+    <image x="1439" y="1778"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E14A_TIMESTAMP.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1499" y="1956"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      TIMESTAMP
+    </text>
+  </g>
+
+  <g id="cell_E14B">
+    <rect x="1650" y="1752"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1668" y="1794"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E14B
+    </text>
+
+    <!-- Glyph -->
+    <image x="1741" y="1778"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E14B_VERIFY_HASH.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1801" y="1956"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      VERIFY HASH
+    </text>
+  </g>
+
+  <g id="cell_E14C">
+    <rect x="1952" y="1752"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1970" y="1794"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E14C
+    </text>
+
+    <!-- Glyph -->
+    <image x="2043" y="1778"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E14C_ORIGIN.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2103" y="1956"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      ORIGIN
+    </text>
+  </g>
+
+  <g id="cell_E14D">
+    <rect x="2254" y="1752"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2272" y="1794"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E14D
+    </text>
+
+    <!-- Glyph -->
+    <image x="2345" y="1778"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E14D_DESTINATION.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2405" y="1956"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      DESTINATION
+    </text>
+  </g>
+
+  <g id="cell_E14E">
+    <rect x="2556" y="1752"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2574" y="1794"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E14E
+    </text>
+
+    <!-- Glyph -->
+    <image x="2647" y="1778"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E14E_DELTA.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2707" y="1956"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      DELTA
+    </text>
+  </g>
+
+  <g id="cell_E14F">
+    <rect x="2858" y="1752"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2876" y="1794"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E14F
+    </text>
+
+    <!-- Glyph -->
+    <image x="2949" y="1778"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E14F_CHECKPOINT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="3009" y="1956"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      CHECKPOINT
+    </text>
+  </g>
+
+  <g id="cell_E150">
+    <rect x="140" y="1978"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="158" y="2020"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E150
+    </text>
+
+    <!-- Glyph -->
+    <image x="231" y="2004"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E150_CONSENSUS.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="291" y="2182"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      CONSENSUS
+    </text>
+  </g>
+
+  <g id="cell_E151">
+    <rect x="442" y="1978"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="460" y="2020"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E151
+    </text>
+
+    <!-- Glyph -->
+    <image x="533" y="2004"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E151_DISSENT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="593" y="2182"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      DISSENT
+    </text>
+  </g>
+
+  <g id="cell_E152">
+    <rect x="744" y="1978"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="762" y="2020"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E152
+    </text>
+
+    <!-- Glyph -->
+    <image x="835" y="2004"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E152_ESCALATE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="895" y="2182"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      ESCALATE
+    </text>
+  </g>
+
+  <g id="cell_E153">
+    <rect x="1046" y="1978"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1064" y="2020"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E153
+    </text>
+
+    <!-- Glyph -->
+    <image x="1137" y="2004"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E153_ARCHIVE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1197" y="2182"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      ARCHIVE
+    </text>
+  </g>
+
+  <g id="cell_E154">
+    <rect x="1348" y="1978"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1366" y="2020"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E154
+    </text>
+
+    <!-- Glyph -->
+    <image x="1439" y="2004"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E154_RETRIEVE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1499" y="2182"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      RETRIEVE
+    </text>
+  </g>
+
+  <g id="cell_E155">
+    <rect x="1650" y="1978"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1668" y="2020"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E155
+    </text>
+
+    <!-- Glyph -->
+    <image x="1741" y="2004"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E155_ERROR.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="1801" y="2182"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      ERROR
+    </text>
+  </g>
+
+  <g id="cell_E156">
+    <rect x="1952" y="1978"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="1970" y="2020"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E156
+    </text>
+
+    <!-- Glyph -->
+    <image x="2043" y="2004"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E156_RETRY.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2103" y="2182"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      RETRY
+    </text>
+  </g>
+
+  <g id="cell_E157">
+    <rect x="2254" y="1978"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2272" y="2020"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E157
+    </text>
+
+    <!-- Glyph -->
+    <image x="2345" y="2004"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E157_FALLBACK.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2405" y="2182"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      FALLBACK
+    </text>
+  </g>
+
+  <g id="cell_E158">
+    <rect x="2556" y="1978"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2574" y="2020"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E158
+    </text>
+
+    <!-- Glyph -->
+    <image x="2647" y="2004"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E158_ABORT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="2707" y="2182"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      ABORT
+    </text>
+  </g>
+
+  <g id="cell_E159">
+    <rect x="2858" y="1978"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="2876" y="2020"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E159
+    </text>
+
+    <!-- Glyph -->
+    <image x="2949" y="2004"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E159_COMMIT.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="3009" y="2182"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      COMMIT
+    </text>
+  </g>
+
+  <g id="cell_E15A">
+    <rect x="140" y="2204"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="158" y="2246"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E15A
+    </text>
+
+    <!-- Glyph -->
+    <image x="231" y="2230"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E15A_ROLLBACK.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="291" y="2408"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      ROLLBACK
+    </text>
+  </g>
+
+  <g id="cell_E15B">
+    <rect x="442" y="2204"
+          width="302" height="226"
+          fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+    <!-- Code (top-left) -->
+    <text x="460" y="2246"
+          font-family="Courier New, monospace"
+          font-size="26"
+          font-weight="bold"
+          fill="#222">
+      U+E15B
+    </text>
+
+    <!-- Glyph -->
+    <image x="533" y="2230"
+           width="120" height="120"
+           xlink:href="../glyphs/canonical/E15B_DRIFT_MEASURE.svg?v=1766618976"/>
+
+    <!-- Name (bottom) -->
+    <text x="593" y="2408"
+          font-family="Arial, sans-serif"
+          font-size="26"
+          text-anchor="middle"
+          fill="#111">
+      DRIFT MEASURE
+    </text>
+  </g>
+
+  <text x="1650" y="2520"
+        font-family="Courier New, monospace"
+        font-size="22"
+        text-anchor="middle"
+        fill="#666">
+    Source: glyphs/canonical · Output: PIVOTGRAM_92_MASTER_SHEET_PRINT_LANDSCAPE.svg
+  </text>
+
+</svg>
