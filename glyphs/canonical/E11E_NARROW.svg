@@ -1,9 +1,10 @@
-<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Funnel outline -->
-  <path d="M 15,15 L 85,15 L 65,85 L 35,85 Z" 
-        fill="none" stroke="black" stroke-width="4" stroke-linejoin="miter" />
-  
-  <!-- Center compression axis -->
-  <line x1="50" y1="15" x2="50" y2="85" 
-        stroke="black" stroke-width="2" stroke-dasharray="4 3" />
+<svg width="100" height="100" viewBox="0 0 100 100"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Funnel / narrowing shape -->
+  <path d="M20 18 L80 18 L58 82 L42 82 Z"
+        fill="none"
+        stroke="black"
+        stroke-width="6"
+        stroke-linejoin="miter"/>
 </svg>
