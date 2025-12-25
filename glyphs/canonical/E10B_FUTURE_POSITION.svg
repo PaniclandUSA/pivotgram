@@ -1,7 +1,15 @@
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-  <!-- Single dashed circle (uncertainty) -->
-  <circle cx="32" cy="32" r="20" fill="none" stroke="black" stroke-width="5" stroke-dasharray="4 3"/>
-  
-  <!-- Single lightning bolt (potential energy) -->
-  <path d="M32 18 L28 32 L34 32 L30 46" stroke="black" stroke-width="4" fill="none" stroke-linejoin="miter"/>
+<svg width="64" height="64" viewBox="0 0 64 64"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Dashed triangle with open apex -->
+  <path d="M16 44 L30 20 M34 20 L48 44"
+        fill="none"
+        stroke="black"
+        stroke-width="6"
+        stroke-linecap="round"
+        stroke-dasharray="6 4"/>
+
+  <!-- Internal potential marker -->
+  <circle cx="32" cy="24" r="4" fill="black"/>
+
 </svg>
