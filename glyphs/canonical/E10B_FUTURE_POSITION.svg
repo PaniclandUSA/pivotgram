@@ -1,5 +1,12 @@
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="32" cy="32" r="20" fill="none" stroke="black" stroke-width="4" stroke-dasharray="8 6" />
-  <path d="M32 32 L44 24" stroke="black" stroke-width="6" />
-  <polygon points="44,24 48,20 46,28" fill="black" />
+<svg width="64" height="64" viewBox="0 0 64 64"
+     xmlns="http://www.w3.org/2000/svg">
+  <!-- Incomplete boundary -->
+  <path d="M16 20 Q32 8 48 20 L48 44 Q32 56 16 44"
+        fill="none" stroke="black" stroke-width="6"
+        stroke-linecap="round"/>
+  
+  <!-- Internal charge mark -->
+  <line x1="32" y1="26" x2="32" y2="38"
+        stroke="black" stroke-width="6"
+        stroke-linecap="round"/>
 </svg>
