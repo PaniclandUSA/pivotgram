@@ -1,6 +1,6 @@
 # PIVOTGRAM-92 Canonical Glyph Reference
 
-**Source**: `glyphs/canonical/PIVOTGRAM_92_MASTER_SHEET_PRINT_LANDSCAPE.svg`  
+**Source**: `glyphs/master/PIVOTGRAM_92_MASTER_SHEET_PRINT_LANDSCAPE.svg`  
 **Unicode Range**: U+E100–U+E15B  
 **Total Glyphs**: 92  
 **Status**: Finalized  
